@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1741459637|3900901887';
+const CACHE_VERSION = '1741463211|68779244';
 /** @type {string} */
 const CACHE_PREFIX = 'SnakeG-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
